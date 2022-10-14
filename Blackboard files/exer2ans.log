@@ -1,0 +1,99 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.10)  28 MAY 2018 13:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**exer2ans.tex
+(./exer2ans.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\enitkv@toks@=\toks14
+\labelindent=\skip43
+\enit@outerparindent=\dimen103
+\enit@toks=\toks15
+\enit@inbox=\box26
+\enitdp@description=\count87
+)
+No file exer2ans.aux.
+\openout1 = `exer2ans.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+
+Overfull \hbox (75.53189pt too wide) in paragraph at lines 23--23
+ []\OT1/cmtt/m/n/10.95 x_1,x_2 = \frac{-\beta\pm\sqrt{\alpha^2-4\cdot\alpha\ome
+ga\cdot\gamma}}[] 
+ []
+
+
+Overfull \hbox (12.29633pt too wide) in paragraph at lines 23--23
+ []\OT1/cmtt/m/n/10.95 {2\alpha\omega} \,, \qquad (\alpha^2-4\alpha\omega\gamma
+)>0.[] 
+ []
+
+
+Overfull \hbox (46.78845pt too wide) in paragraph at lines 40--40
+ []\OT1/cmtt/m/n/10.95 \sin 30^{\circ} = \frac{1}{2} = \frac{1}{\sqrt{3}} \sin 
+60^{\circ}[] 
+ []
+
+
+Overfull \hbox (0.79895pt too wide) in paragraph at lines 55--55
+ []\OT1/cmtt/m/n/10.95 n^\mathrm{th}, \qquad 1^\mathrm{st}, \qquad 2^\mathrm{nd
+}.[] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./exer2ans.aux) ) 
+Here is how much of TeX's memory you used:
+ 498 strings out of 493304
+ 7108 string characters out of 6139870
+ 60967 words of memory out of 5000000
+ 4037 multiletter control sequences out of 15000+600000
+ 5021 words of font info for 19 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 21i,4n,19p,160b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
+</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on exer2ans.pdf (2 pages, 42759 bytes).
+PDF statistics:
+ 23 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

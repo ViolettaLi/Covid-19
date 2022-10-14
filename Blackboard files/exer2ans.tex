@@ -1,0 +1,118 @@
+\documentclass[a4paper,11pt,twoside]{article}
+\usepackage{enumitem}
+\begin{document}
+
+\begin{center}
+
+{\Large Introduction to \LaTeX}
+\vspace{0.2cm}
+
+{\Large ANSWERS TO EXERCISE 2}
+
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{enumerate}
+\item 
+\begin{verbatim}
+\[
+x_1,x_2 = \frac{-\beta\pm\sqrt{\alpha^2-4\cdot\alpha\omega\cdot\gamma}}
+{2\alpha\omega} \,, \qquad (\alpha^2-4\alpha\omega\gamma)>0.
+\]
+\end{verbatim}
+
+\item
+\begin{verbatim}
+\begin{align}
+             x^2+2x-15 & =  0, \\
+\Rightarrow (x+5)(x-3) & =  0, \nonumber \\
+\Rightarrow         x  & =  -5,\,3.
+\end{align}
+\end{verbatim}
+
+\item 
+\begin{verbatim}
+\[
+\sin 30^{\circ} = \frac{1}{2} = \frac{1}{\sqrt{3}} \sin 60^{\circ}
+= \cos(\pi/3).
+\]
+\end{verbatim}
+
+
+\item 
+\begin{verbatim}
+\[
+\arccos x = \int_x^1 \frac{\mathrm{d}u}{\sqrt{1-u^2}}\,.
+\]
+\end{verbatim}
+
+\item 
+\begin{verbatim} 
+\[ 
+n^\mathrm{th}, \qquad 1^\mathrm{st}, \qquad 2^\mathrm{nd}. 
+\]
+\end{verbatim}
+
+\item 
+\begin{verbatim} 
+\newcommand{\fork}{\mathrm{Fork}\,}
+\end{verbatim}
+\end{enumerate}
+
+\newpage
+\noindent
+\begin{enumerate}[leftmargin=*]
+\setcounter{enumi}{6}
+\item
+\begin{verbatim}
+\[
+\left(
+\begin{array}{ccc}
+ F[1,1] & \cdots & F[1,m] \\
+ \vdots & \ddots & \vdots \\
+ F[n,1] & \cdots & F[n,m] 
+\end{array}
+\right)
+\]
+\end{verbatim}
+
+\item
+\begin{verbatim}
+\[
+\alpha = \frac{e^2}{2h\epsilon_0 c}\approx \frac{1}{137}\, ,
+\quad k = 1.38 \times 10^{-23}\ \mathrm{J}\,\mathrm{K}^{-1}. 
+\]
+\end{verbatim}
+
+\item
+\begin{verbatim}
+\begin{align*}
+f(x) & = \frac{a_0}{2} + 
+\sum_{n=1}^\infty (a_n\cos nx + b_n\sin nx)\, ,\\ 
+a_n  & = \frac{1}{\pi} \int_{-\pi}^\pi f(x)\cos nx 
+\,\mathrm{d}x \,, \qquad n=1,2,\ldots\,, \\
+b_n  & = \frac{1}{\pi} \int_{-\pi}^\pi f(x)\sin nx 
+\,\mathrm{d}x \,, \qquad n=1,2,\ldots\,. 
+\end{align*}
+\end{verbatim}
+
+\item 
+\begin{verbatim}
+\newenvironment{proof}{{\scshape Proof. }\slshape}
+   {\hfill \mathrm{Q.E.D.}\par} 
+\end{verbatim}
+
+\item
+\begin{verbatim}
+\newcommand\defint[1]{\left [ #1 \right ]^{\frac{\pi}{2}}_0}
+\end{verbatim}
+
+\item 
+\begin{verbatim}
+\newcommand\defint[3]{\left [ #1 \right ]^{#3}_{#2}}
+\end{verbatim}
+
+\end{enumerate}  
+
+\end{document}
